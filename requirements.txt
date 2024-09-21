@@ -1,0 +1,8 @@
+pyautogui
+telebot
+opencv-python-headless
+psutil
+geocoder
+pyperclip
+pynput
+python-nmap
