@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/mkdirlove/PhobosSpear"><img src="https://github.com/mkdirlove/PhobosSpear/blob/main/phobos.png" alt="PhobosSpear"></a>
+  <a href="https://github.com/mkdirlove/PhobosSpear"><img src="https://github.com/mkdirlove/PhobosSpear/blob/main/phobos.png" width="300" alt="PhobosSpear"></a>
   <br>
   PhobosSpear is a cutting-edge Telegram-based Command and Control (C2) system, named after the Greek god of fear, Phobos. 
   <br>
