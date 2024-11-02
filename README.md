@@ -31,6 +31,8 @@
 - Deploy to target
 - Start telegram bot
 
+<a href="https://github.com/mkdirlove/PhobosSpear"><img src="https://github.com/mkdirlove/PhobosSpear/blob/main/repo-map.png" width="500" alt="PhobosSpear"></a>
+
 ### Usage
   ```console
     Available Commands:
